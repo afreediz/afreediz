@@ -1,5 +1,6 @@
-### Hi there 👋 I'm Afreedi
+### Hi there 👋 I'm Afreedi Z
 
+- 3rd year computer science and engineering student at mescet kunnukara
 - 🔭 I’m currently working as a Freelancer
 - 🌱 I’m a self thaught Full stack web developer [ MERN STACK ]
 - 👯 I’m looking to collaborate on amazing projects or to be a part of great team
@@ -16,6 +17,6 @@
 
 <img align="ceneter" dislay="block" src="https://github-readme-stats.vercel.app/api?username=afreedituttu&show_icons=true&theme=radical"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afreedituttu&hide=scss,less,handlebars)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afreedituttu&hide=scss,less,handlebars,css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
