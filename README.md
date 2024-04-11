@@ -15,8 +15,8 @@
 
 
 
-<img align="ceneter" dislay="block" src="https://github-readme-stats.vercel.app/api?username=afreedituttu&show_icons=true&theme=radical"/>
+<img align="ceneter" dislay="block" src="https://github-readme-stats.vercel.app/api?username=afreediz&show_icons=true&theme=radical"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afreedituttu&hide=scss,less,handlebars,css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afreediz&hide=scss,less,handlebars,css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
