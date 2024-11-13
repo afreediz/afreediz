@@ -1,9 +1,8 @@
 ### Hi there 👋 I'm Afreedi Z
 
 - 4th year computer science and engineering student at mescet kunnukara
-- 🔭 I’m currently working as a Freelancer
-- 🌱 I’m a self thaught Full stack web developer [ MERN STACK ]
-- 👯 I’m looking to collaborate on amazing projects or to be a part of great team
+- 🌱 Full stack developer and AI researcher.
+- 👯 Looking for some great minds to collab with.
 - 💬 Ask me about anything
 - 📫 How to reach me: afreedisulfiker@gmail.com
 - ⚡ Fun fact: I LOVE SCIENCE AND TECHNOLOGY
