@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Afreedi Z
 
-- 4th year computer science and engineering student at mescet kunnukara
 - 🌱 Full stack developer and AI researcher.
 - 👯 Looking for some great minds to collab with.
 - 💬 Ask me about anything
